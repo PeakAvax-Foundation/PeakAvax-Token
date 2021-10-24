@@ -1,5 +1,5 @@
 # PeakAvax-Token
-Join and hodl Peak AVAX ($PAVAX)
+Join and hodl Peak AVAX ($PEAKAVAX)
 Get Peak bonuses in AVAX
 Always climbing with PAVAX Hyper-deflationary Protocol
 Peak Avalanche ($PEAK) is the first deflationary token on the BSC that provides generous yields in AVAX for just holding.
